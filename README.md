@@ -59,7 +59,6 @@ The Smart Village is divided into **four functional areas**, each connected via 
 - The **IoT Server** manages device registration and automation rules.  
 - Each zone (home, hospital, school, irrigation) connects through an **Access Point or Home Gateway** for IoT device communication.  
 - The **Main Switch** connects all zones, the IoT server, and the ISP Cloud.  
-<img width="2641" height="802" alt="1" src="https://github.com/user-attachments/assets/9dcb5748-56ad-41d1-8a19-ad93ec92bc1d" />
 
 <p align="center">
 <img width="2641" height="802" alt="1" src="https://github.com/user-attachments/assets/9dcb5748-56ad-41d1-8a19-ad93ec92bc1d" />
